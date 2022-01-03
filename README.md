@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-	The purpose of the analysis is uncovered how different campaigns fared in relation to their launch dates and funding goals. The Kickstarter data set was used to create visualizations and use for analysis of different plays. There are 4114 entries in the data set about different types of fundraising campaigns along with other details of goal amount, pledged amount, outcome, etc. Through use of pivot tables, excel formulas, filtering, and pivot charts, analysis on this data was performed.
+	The purpose of the analysis is uncovered how different campaigns fared in relation to their launch dates and funding goals. The Kickstarter data set was used to create visualizations and use for analysis of different theater plays that were fundrasied for. There are 4114 entries in the data set about different types of fundraising campaigns along with other details of goal amount, pledged amount, outcome, etc. Through use of pivot tables, excel formulas, filtering, and pivot charts, analysis on this data was performed.
 
 ## Analysis and Challenges
 
