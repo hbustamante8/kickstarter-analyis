@@ -38,7 +38,7 @@
 	From the Outcomes based on Goals it can be concluded that the lower the goal amount under $20,000, a fundraising campaign for plays is more likely to succeed. Interestingly, fundraising campaigns between $35,000 and $45,000 have a good chance of being successful. While campaigns greater than $45,000 have a very low high failure rate and should be avoided.
 
 ### Limitations and potential challenges
-	A limitation of this dataset is the absence of specific area data within a country the fundraising campaigns will launch in. Having this data could help determine where specifically in a country it would be more likely to have success in raising money for a fundraising event. Another limitation of the dataset is not knowing how the many is being raised for each campaign. Could it be door to door asking for pledges, online marketing, fundraising events, etc. Having this data could identify patterns between fundraising strategies and outcome of fundraising campaign.
+	A limitation of this dataset is the absence of specific area data within a country the fundraising campaigns will launch in. Having this data could help determine where specifically in a country it would be more likely to have success in raising money for a fundraising event. Another limitation of the dataset is not knowing how the many is being raised for each campaign.The dataset does not have data on whether the fundraising campaigns were door to door asking for pledges, online marketing, fundraising events, etc. Having this data could identify patterns between fundraising strategies and outcome of fundraising campaigns.
 
 ### Recommendation for additional tables or graphs
 
