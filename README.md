@@ -31,11 +31,11 @@
 ## Results
 
 ### Conclusions on Theater Outcomes by Launch Date
-	The first conclusion that can be made from the Outcomes based on Launch Date visual is that the most successful theater fundraising campaigns begin in May and June. Secondly, failed outcome are most likely to happen in the month of October for theaters.
+	The first conclusion that can be made from the Outcomes based on Launch Date visual is that the most successful theater fundraising campaigns begin in May and June. Secondly, failed outcomes are most likely to happen in the month of October for theaters.
 
 ### Conclusion on Outcomes based on Goals
 
-	From the Outcomes based on Goals it can be concluded that the lower the goal amount under $20,000, a fundraising campaign for plays is more likely to succeed. Interestingly, fundraising campaigns between $35,000 and $45,000 have a good chance of being successful. While campaigns greater than $45,000 have a very low high failure rate and should be avoided.
+	From the Outcomes based on Goals it can be concluded that the lower the goal amount under $20,000, a fundraising campaign for plays is more likely to succeed. Interestingly, fundraising campaigns between $35,000 and $45,000 have a good chance of being successful. While campaigns greater than $45,000 have a very high failure rate and should be avoided.
 
 ### Limitations and potential challenges
 	A limitation of this dataset is the absence of specific area data within a country the fundraising campaigns will launch in. Having this data could help determine where specifically in a country it would be more likely to have success in raising money for a fundraising event. Another limitation of the dataset is not knowing how the many is being raised for each campaign.The dataset does not have data on whether the fundraising campaigns were door to door asking for pledges, online marketing, fundraising events, etc. Having this data could identify patterns between fundraising strategies and outcome of fundraising campaigns.
